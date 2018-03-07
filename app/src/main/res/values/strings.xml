@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">The Shape of Water Quiz</string>
+    <string name="question">How much do you know about this tale of love and loss?</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="start_over">Start Over</string>
+    <string name="unanswered_questions">Please answer all questions</string>
+
+    <string name="director_name">1. What is the name of the film\'s director?</string>
+    <string name="name_hint">Type the full name</string>
+    <string name="full_name">Guillermo del Toro</string>
+
+    <string name="movies">2. Which movie has a different director?</string>
+    <string name="hellboy">Hellboy (2004)</string>
+    <string name="the_orphanage">The Orphanage (2007)</string>
+    <string name="cronos">Cronos (1993)</string>
+    <string name="pans_labyrinth">Pan\'s Labyrinth (2006)</string>
+
+    <string name="disabilities">3. Which disability does Elisa, the main character, have?</string>
+    <string name="mute">She is mute</string>
+    <string name="dyslexic">She is dyslexic</string>
+    <string name="deaf">She is deaf</string>
+    <string name="autistic">She is autistic</string>
+
+    <string name="genres">4. Which genre(s) does the film belong to?</string>
+    <string name="biography">Biography</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="science_fiction">Science Fiction</string>
+    <string name="drama">Drama</string>
+
+    <string name="audiences">5. The Shape of Water is suitable for all audiences.</string>
+
+    <string name="traits">6. Which special trait(s) does the creature have?</string>
+    <string name="harmless">He is harmless</string>
+    <string name="amphibious">He is amphibious</string>
+    <string name="healing">He has healing abilities</string>
+    <string name="intelligent">He is intelligent</string>
+
+    <string name="decades">7. In what decade does the story take place?</string>
+    <string name="forties">1940s</string>
+    <string name="sixties">1960s</string>
+    <string name="eighties">1980s</string>
+    <string name="two_thousands">2000s</string>
+
+    <string name="origins">8. Where does the creature come from?</string>
+    <string name="australia">Australia</string>
+    <string name="africa">Africa</string>
+    <string name="europe">Europe</string>
+    <string name="south_america">South America</string>
+
+    <string name="friends">9. Elisa has one African-American and one homosexual friend.</string>
+
+    <string name="scenes">10. Which scene(s) was/were included in the film?</string>
+    <string name="flood">A room is flooded</string>
+    <string name="cinema">The creature visits the cinema</string>
+    <string name="dance">Elisa dances with the creature</string>
+    <string name="book">The creature reads a book</string>
+
+    <string name="score">Your score is: %1$d%%</string>
+    <string name="retry">You can take the quiz again and try different answers.</string>
+    <string name="congratulations">Congratulations! Let us remember a wonderful poem:</string>
+    <string name="poem">\"Unable to perceive the shape of You, I find You all around me. Your presence fills my eyes with Your love, It humbles my heart, For You are everywhere.\"</string>
+
+</resources>
